@@ -126,10 +126,10 @@
 
 
   <scm>
-    <url>https://github.com/lucee/osgi-bundle-hsqldb</url>
-    <connection>scm:git:git://github.com/lucee/osgi-bundle-hsqldb.git</connection>
-    <developerConnection>scm:git:git@github.com:lucee/osgi-bundle-hsqldb.git</developerConnection>
-    <tag>HSQLDB OSGi library</tag>
+    <url>https://github.com/lucee/osgi-bundle-postgre</url>
+    <connection>scm:git:git://github.com/lucee/osgi-bundle-postgre.git</connection>
+    <developerConnection>scm:git:git@github.com:lucee/osgi-bundle-postgre.git</developerConnection>
+    <tag>Postgre OSGi library</tag>
   </scm>
 
   <distributionManagement>
